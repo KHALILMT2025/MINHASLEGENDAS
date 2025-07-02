@@ -1,189 +1,214 @@
 1
+00:00:01,166 --> 00:00:03,333
+eu acho que você tem que mandar aquela mensagem
+
+2
+00:00:05,100 --> 00:00:05,900
+mas manda
+
+3
+00:00:06,900 --> 00:00:08,200
+o que tá no seu coração
+
+4
+00:00:08,900 --> 00:00:10,166
+porque se fosse eu
+
+5
+00:00:10,333 --> 00:00:11,133
+eu falaria
+
+5
+00:00:11,533 --> 00:00:12,500
+mais ou menos assim
+
+6
 00:00:16,100 --> 00:00:19,900
 hei boa noite antes de te bloquear
 
-2
+7
 00:00:20,233 --> 00:00:21,400
 eu só vim te dizer
 
-3
+8
 00:00:21,566 --> 00:00:24,700
 que a partir de hoje pode tocar o terror
 
-4
+9
 00:00:24,700 --> 00:00:27,766
 fazer o que quiser fazer a boca é sua
 
-5
+10
 00:00:28,266 --> 00:00:30,400
 curtir suas farras sinto mais nada
 não, apaga, apaga, apaga
 
-6
+11
 00:00:32,966 --> 00:00:34,666
 oi boa noite
 
-7
+12
 00:00:35,366 --> 00:00:38,066
 só me pediu um tempo pra dar tempo de esquecer
 
-8
+13
 00:00:38,466 --> 00:00:39,666
 especialmente hoje
 
-9
+14
 00:00:40,633 --> 00:00:43,466
 coração acordou me pressionando pra te ver
 
-10
+15
 00:00:43,866 --> 00:00:46,033
 saiu de casa não posta nada
 
-11
+16
 00:00:46,633 --> 00:00:48,700
 esconde as fotos apaga apaga apaga
 
-12
+17
 00:00:50,633 --> 00:00:52,633
 meu amor por favor
 
-13
+18
 00:00:53,633 --> 00:00:58,066
 fala que você também não me esqueceu que EU tô
 
-14
+19
 00:00:59,166 --> 00:01:01,366
 digitando tudo o que o coração escreveu
 
-15
+20
 00:01:02,266 --> 00:01:07,000
 se a saudade também molha a sua cara pega o nosso fim
 
-16
+21
 00:01:07,733 --> 00:01:09,366
 apaga apaga apaga
 
-17
+22
 00:01:11,100 --> 00:01:13,000
 meu amor por favor
 
-18
+23
 00:01:14,100 --> 00:01:18,466
 fala que você também não me esqueceu que eu tô
 
-19
+24
 00:01:19,466 --> 00:01:21,766
 digitando tudo que o coração escreveu
 
-20
+25
 00:01:22,666 --> 00:01:27,400
 se a saudade também molha a sua cara pega o nosso fim
 
-21
+26
 00:01:28,166 --> 00:01:32,366
 apaga apaga apaga
 
-22
+27
 00:01:47,333 --> 00:01:49,000
 Oi boa noite
 
-23
+28
 00:01:49,666 --> 00:01:52,433
 só vim pedir um tempo pra dar tempo de esquecer
 
-24
+29
 00:01:52,766 --> 00:01:53,866
 especialmente hoje
 
-25
+30
 00:01:54,800 --> 00:01:57,566
 coração acordou me pressionando pra te ver
 
-26
+31
 00:01:58,000 --> 00:02:02,833
-saiu de casa não posta nada esconde as farra, apaga,apaga,apaga
+saiu de casa não posta nada esconde as farra, 
+apaga,apaga,apaga
 
-27
+32
 00:02:04,733 --> 00:02:06,666
 meu amor por favor
 
-28
+33
 00:02:07,700 --> 00:02:12,100
 fala que você também não me esqueceu que eu tô
 
-29
+34
 00:02:12,966 --> 00:02:15,466
 digitando tudo que o coração escreveu
 
-30
+35
 00:02:16,300 --> 00:02:21,066
 se a saudade também molha a sua cara pega o nosso fim
 
-31
+36
 00:02:21,766 --> 00:02:24,733
 apaga apaga apaga
 
-32
+37
 00:02:25,133 --> 00:02:27,100
 meu amor por favor
 
-33
+38
 00:02:28,300 --> 00:02:32,533
 fala que você também não me esqueceu que eu tô
 
-34
+39
 00:02:33,433 --> 00:02:35,800
 digitando tudo que o coração escreveu
 
-35
+40
 00:02:36,733 --> 00:02:41,500
 se a saudade também molha sua cara pega o nosso fim
 
-36
+41
 00:02:42,166 --> 00:02:45,900
 apaga apaga apaga
 
-37
+42
 00:03:02,200 --> 00:03:05,466
 digitando tudo  o que  coração escreveu
 
-38
+43
 00:02:54,100 --> 00:02:56,066
 meu amor por favor
 
-39
+44
 00:02:57,266 --> 00:03:01,500
 fala que você também não me esqueceu que eu tô
 
-40
+45
 00:03:05,933 --> 00:03:10,700
 se a saudade também molha sua cara pega o nosso fim
 
-41
+45
 00:03:11,366 --> 00:03:15,100
 apaga apaga apaga
 
-42
+46
 00:00:01,166 --> 00:00:03,333
 eu acho que você tem que mandar aquela mensagem
 
-43
+47
 00:00:05,100 --> 00:00:05,900
 mas manda
 
-44
+48
 00:00:06,900 --> 00:00:08,200
 o que tá no seu coração
 
-45
+49
 00:00:08,900 --> 00:00:10,166
 porque se fosse eu
 
-46
+50
 00:00:10,333 --> 00:00:11,133
 eu falaria
 
-47
+51
 00:00:11,533 --> 00:00:12,500
 mais ou menos assim
 
